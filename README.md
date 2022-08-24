@@ -7,5 +7,4 @@ This repo store the code for MSc Data Science Dissertation. There are 3 coding f
 
 3. Text-classification.ipynb : Apply fine-tuned model into testing dataset to do text classification. In this file, we do both document level and sentence level classification. At the final step, the file export the detail of the classification.
 
-4. Analysis.ipynb: This file contains functions used for analysis the result from the Testing.
 Copyright belong to Bao Phan.
